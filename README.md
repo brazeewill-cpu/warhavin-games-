@@ -1,4 +1,4 @@
 # warhavin-games-
 mobile game 
 
-reand write permission 
+read write permission 
